@@ -1,2 +1,2 @@
-# dang
+# dim
 an experimental language
